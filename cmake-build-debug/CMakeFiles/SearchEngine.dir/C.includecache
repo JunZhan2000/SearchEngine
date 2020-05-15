@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/23276/CLionProjects/SearchEngine/bool_search.h
+hash.h
+C:/Users/23276/CLionProjects/SearchEngine/hash.h
+
+C:/Users/23276/CLionProjects/SearchEngine/free_text_search.h
+
+C:/Users/23276/CLionProjects/SearchEngine/hash.h
+stdio.h
+-
+stack.h
+C:/Users/23276/CLionProjects/SearchEngine/stack.h
+
+C:/Users/23276/CLionProjects/SearchEngine/heapSort.h
+
+C:/Users/23276/CLionProjects/SearchEngine/main.c
+stdlib.h
+-
+string.h
+-
+hash.h
+C:/Users/23276/CLionProjects/SearchEngine/hash.h
+utils.h
+C:/Users/23276/CLionProjects/SearchEngine/utils.h
+free_text_search.h
+C:/Users/23276/CLionProjects/SearchEngine/free_text_search.h
+bool_search.h
+C:/Users/23276/CLionProjects/SearchEngine/bool_search.h
+heapSort.h
+C:/Users/23276/CLionProjects/SearchEngine/heapSort.h
+
+C:/Users/23276/CLionProjects/SearchEngine/stack.h
+
+C:/Users/23276/CLionProjects/SearchEngine/utils.h
+hash.h
+C:/Users/23276/CLionProjects/SearchEngine/hash.h
+bool_search.h
+C:/Users/23276/CLionProjects/SearchEngine/bool_search.h
+
